@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mortgage Calculator Application</string>
+    <string name="Purchase_Price_textView">Purchase Price</string>
+    <string name="Down_Payment_textView">Down Payment</string>
+    <string name="interest_rate_textView">Interest Rate</string>
+    <string name="loan_term_textView">10 years</string>
+    <string name="monthly_payment_textView">Monthly Payment</string>
+</resources>
